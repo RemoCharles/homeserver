@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #Variables
+#Directory in quotes
 directory='/mnt/a85704a5-4eb4-4935-b5c8-0d096ea8d4da/lost+found/'
 
 #Start Script
